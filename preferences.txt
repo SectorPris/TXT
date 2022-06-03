@@ -1,0 +1,5 @@
+Film" : Harry Potter,
+Favorite TV series : The Big Bang Theory, 
+Favorite food: Dumplings, 
+Favorite time of the year : Summer,	
+A country : USA.

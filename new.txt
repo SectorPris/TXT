@@ -1,0 +1,4 @@
+FIO: Nefedov Daniil Dmitrievna,
+Age : 34,
+Animals : 3 pets,
+Salary : 80000  
